@@ -9,7 +9,6 @@ Here are the key terms and concepts used in the Excel project summary:
 - **Pivot Charts**: Visual representations of data summarized by pivot tables, which help in creating interactive and dynamic reports.
 - **Slicers**: Visual filters in Excel that allow users to easily filter data in pivot tables and charts based on selected criteria.
 - **Dashboard**: A visual representation of key metrics and data insights, often using charts, tables, and slicers to provide an interactive summary.
-  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  
   SCREENSHOT OF DASHBOARD
   ![Coffee Sales Dashboard](https://github.com/user-attachments/assets/1b0ae278-adc2-4504-8af3-d4b608e35ed7)
-  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
