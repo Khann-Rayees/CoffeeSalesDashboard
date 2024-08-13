@@ -1,7 +1,9 @@
+
 # CoffeeSalesDashboard
-This is an Excel Project in which I had created a Dashboard for Coffee Sales using Pivot Tables, Slicers and utilised the excel analytical skills.
-Here are the key terms and concepts used in the Excel project summary:
-- **Excel Project**: A comprehensive exercise that involves data collection, transformation, and visualization using Microsoft Excel.
+
+This is an Excel project in which I created a dashboard for coffee sales using Pivot Tables, Slicers, and various Excel analytical skills. Here are the key terms and concepts used in the Excel project summary:
+
+- **Excel Project**: A comprehensive exercise involving data collection, transformation, and visualization using Microsoft Excel.
 - **Data Gathering**: Collecting and organizing data from various sources, such as customer and product tables, into a unified dataset.
 - **XLOOKUP**: A formula in Excel used to search a range or table for a specific value and return a corresponding value from another range or table.
 - **INDEX MATCH**: A combination of two Excel functions used for dynamic data lookup, providing more flexibility compared to simple lookup functions.
